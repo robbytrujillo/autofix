@@ -22,5 +22,3 @@ Autofix is a fully responsive car service website, <br />Responsive for all devi
 ### Demo Screeshots
 
 ![Autofix Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
