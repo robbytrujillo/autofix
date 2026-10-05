@@ -140,11 +140,11 @@ Contact Info
 info@autofix.com
 
 <span class="material-symbols-rounded">location_on</span>
-21 King Street Melbourne, 3000, Australia
+Bogor country, West Java, Indonesia
 
 alt = Shape
 
-Copyright 2022, codewithsadee All Rights Reserved.
+Copyright 2026, robbyilham All Rights Reserved.
 
 alt = Shape
 
